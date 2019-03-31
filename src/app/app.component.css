@@ -1,0 +1,11 @@
+.box {
+	background-image: linear-gradient(#30E0E2,#62A4F8);
+	height : 100vh;
+	overflow: auto;
+	padding-top: 10px;
+
+	width:100%;
+}
+body {
+	margin : 0;
+}
